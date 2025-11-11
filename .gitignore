@@ -15,3 +15,6 @@ src/charp/bin
 src/rust/Cargo.lock
 src/rust/target
 src/r/.RData
+src/c/epoch
+src/c/predict
+src/c/tleage
